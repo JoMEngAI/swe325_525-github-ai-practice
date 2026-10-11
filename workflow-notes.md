@@ -71,23 +71,23 @@ https://github.com/JoMEngAI/swe325_525-github-ai-practice/issues/1
 
 https://github.com/JoMEngAI/swe325_525-github-ai-practice/tree/feature/github-ai-workflow
 
-### Commit 1 — Clarify repository purpose
+### Meaningful commit 1 — Clarify repository purpose
 
 https://github.com/JoMEngAI/swe325_525-github-ai-practice/commit/0d8de69452775181bb7732af3fd5bcf3ab403853
 
-### Commit 2 — Document branch and pull request workflow
+### Meaningful commit 2 — Document branch and pull request workflow
 
 https://github.com/JoMEngAI/swe325_525-github-ai-practice/commit/5738fde27d793669f482282ce19e9031df4d0bc1
 
-### Commit 3 — Add AI-use record
+### Meaningful commit 3 — Add AI-use record fixed
 
-https://github.com/JoMEngAI/swe325_525-github-ai-practice/commit/c32ed444c7d9fbcf0117affe18e9f0a786eb1e27
+https://github.com/JoMEngAI/swe325_525-github-ai-practice/commit/27187c978b8c889de216623f0377808afce1cfbf
 
 This commit added the log file and updated the README identification. A later documentation-repair commit adds the substantive AI-log content.
 
 ### Pull request
 
-Pending creation. Replace this sentence with the actual pull-request URL before merging.
+Pending creation. The actual URL will be added before merging.
 
 ### Default-branch history
 
