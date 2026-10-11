@@ -8,7 +8,7 @@ The goal is to practice defining work in a GitHub issue, developing documentatio
 
 ## Student identification
 
-Student: YOUR-NAME-OR-GITHUB-HANDLE
+Student: JoMEngAI
 
 Course: SWE 525 — Software Construction
 
