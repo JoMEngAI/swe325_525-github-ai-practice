@@ -44,3 +44,12 @@ The work focuses on:
 No passwords, access tokens, private keys, confidential documents, or private personal information belong in this repository.
 
 I am responsible for checking AI suggestions and ensuring that the documentation accurately reflects the work I performed.
+
+## How to verify this work
+
+1. Read `workflow-notes.md` for the repository, issue, feature-branch, commit, and pull-request links.
+2. Read `ai-log.md` for the actual AI tasks, decisions, and reflection answers.
+3. Inspect the pull request for its acceptance checklist and review discussion.
+4. Inspect the Commits tab for the meaningful feature-branch changes.
+5. After merging, confirm that `main` contains all three documentation files.
+6. Confirm that `feature/github-ai-workflow` still exists after merging.

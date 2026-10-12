@@ -96,7 +96,7 @@ https://github.com/JoMEngAI/swe325_525-github-ai-practice/commit/2bab4b1dac02cee
 
 ### Pull request
 
-Pending creation. Replace this sentence with the actual pull-request URL before merging.
+https://github.com/JoMEngAI/swe325_525-github-ai-practice/pull/2
 
 ### Default-branch history
 
